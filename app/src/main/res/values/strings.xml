@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo ScrollView</string>
+    <string name="editText">A\nB\nC\nB\nC\nB\nC\nB\nC\nB\nC\nB\nC\nB\nC\nB\nC\nB\nC\nB\nC\nB\nB\nC\nB\nC\nB\nC\nB\nC</string>
+    <string name="button">Submit</string>
 </resources>
